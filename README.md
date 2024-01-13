@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MysteryEngineerKKR
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Automation Testing
+- 👀 I’m interested in Everything
+- 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me only via Git
 - 😄 Pronouns: ...
